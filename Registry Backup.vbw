@@ -1,0 +1,5 @@
+frmMain = 44, 44, 409, 376, Z, 22, 22, 397, 368, C
+regback = 0, 0, 0, 0, C
+frmReadme = 0, 0, 0, 0, C, 44, 44, 419, 390, C
+frmshowbackup = 0, 0, 0, 0, C, 66, 66, 441, 412, C
+frmPassword = 0, 0, 0, 0, C, 88, 88, 463, 434, C
